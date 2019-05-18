@@ -1,0 +1,11 @@
+# editor
+.vscode
+
+# packages
+node_modules
+
+# yarn
+yarn-error.log
+
+# build
+/build
