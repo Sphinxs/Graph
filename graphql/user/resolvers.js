@@ -370,6 +370,8 @@ const login = async args => {
       firstName: user.firstName
     };
   } catch (error) {
+    console.log(error);
+
     checkError(error);
   }
 };
